@@ -1,6 +1,5 @@
 FROM node:latest
 
-echo let's go
 
 RUN echo "Tryin to build my first application"
 
